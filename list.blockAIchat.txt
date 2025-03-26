@@ -1,0 +1,33 @@
+### A DNS Blocklist for filtering out NSFW AI chat sites.
+# Home Project: https://github.com/Groganator/BlockAIchat
+
+*://*.buttondown.com/*
+*://*.c.ai/*
+*://*.character.ai/*
+*://*.candy.ai/*
+*://*.crushon.ai/*
+*://*.carter.chat/*
+*://*.carter.ai/*
+*://*.caveduck.io/*
+*://*.chub.ai/*
+*://*.deepai.org/*
+*://*.deepseek.com/*
+*://*.janitorai.com/*
+*://*.joyland.ai/*
+*://*.juicychat.ai/*
+*://*.kindroid.ai/*
+*://*.multichatai.com/*
+*://*.mybot.ai/*
+*://*.muah.ai/*
+*://*.nsfwtavern.ai/*
+*://*.perchance.ai/*
+*://*.perchance.org/*
+*://*.polybuzz.ai/*
+*://*.procreate.com/*
+*://*.pygmalion.chat/*
+*://*.rochat.ai/*
+*://*.sakura.fm/*
+*://*.solochat.ai/*
+*://*.soulkyn.com/*
+*://*.talkie-ai.com/*
+*://*.thebestaigf.com/*
