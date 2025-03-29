@@ -18,6 +18,7 @@
 0.0.0.0 deepai.org
 0.0.0.0 deepseek.com
 0.0.0.0 dreamgf.ai
+0.0.0.0 emochi.com
 0.0.0.0 harpy.chat
 0.0.0.0 janitorai.com
 0.0.0.0 joyland.ai
