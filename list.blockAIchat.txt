@@ -1,6 +1,7 @@
 ### A DNS Blocklist for filtering out NSFW AI chat sites.
 # Home Project: https://github.com/Groganator/BlockAIchat
 
+0.0.0.0 aisekai.ai
 0.0.0.0 buttondown.com
 0.0.0.0 c.ai
 0.0.0.0 character.ai
@@ -10,22 +11,29 @@
 0.0.0.0 carter.ai
 0.0.0.0 caveduck.io
 0.0.0.0 charstar.ai
+0.0.0.0 chai-research.com
 0.0.0.0 chub.ai
+0.0.0.0 dearone.ai
 0.0.0.0 deepai.org
 0.0.0.0 deepseek.com
+0.0.0.0 dreamgf.ai
+0.0.0.0 harpy.chat
 0.0.0.0 janitorai.com
 0.0.0.0 joyland.ai
 0.0.0.0 juicychat.ai
 0.0.0.0 kindroid.ai
 0.0.0.0 multichatai.com
+0.0.0.0 myanima.ai
 0.0.0.0 mybot.ai
 0.0.0.0 muah.ai
 0.0.0.0 nsfwtavern.ai
+0.0.0.0 openart.ai
 0.0.0.0 perchance.ai
 0.0.0.0 perchance.org
 0.0.0.0 polybuzz.ai
 0.0.0.0 procreate.com
 0.0.0.0 pygmalion.chat
+0.0.0.0 replika.com
 0.0.0.0 rochat.ai
 0.0.0.0 sakura.fm
 0.0.0.0 solochat.ai
