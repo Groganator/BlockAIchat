@@ -9,6 +9,7 @@
 0.0.0.0 carter.chat
 0.0.0.0 carter.ai
 0.0.0.0 caveduck.io
+0.0.0.0 charstar.ai
 0.0.0.0 chub.ai
 0.0.0.0 deepai.org
 0.0.0.0 deepseek.com
