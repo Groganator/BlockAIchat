@@ -41,4 +41,5 @@
 0.0.0.0 solochat.ai
 0.0.0.0 soulkyn.com
 0.0.0.0 talkie-ai.com
+0.0.0.0 theaipeeps.com
 0.0.0.0 thebestaigf.com
